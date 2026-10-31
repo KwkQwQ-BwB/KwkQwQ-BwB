@@ -21,7 +21,7 @@
 
 | project | what it does |
 | --- | --- |
-| [chaoxing-ai-proxy](https://github.com/KwkQwQ-BwB/chaoxing-ai-proxy) | turns 超星 / 萤火虫 AI into an OpenAI-compatible API |
+| [KwkQwQ-BwB.github.io](https://github.com/KwkQwQ-BwB/KwkQwQ-BwB.github.io) | my personal site, one HTML file, no build step |
 
 ### 🛠 tools i reach for
 
